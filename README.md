@@ -1,2 +1,1 @@
-# Animation
-https://eduard-mychka.github.io/animation-page/
+# [Animations](https://eduard-mychka.github.io/animation-page/)
